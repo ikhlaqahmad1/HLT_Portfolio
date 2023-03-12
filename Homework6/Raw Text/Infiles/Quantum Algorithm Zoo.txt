@@ -1,0 +1,9 @@
+This is a comprehensive catalog of quantum algorithms. If you notice any errors or 
+omissions, please email me at  
+. 
+Your help is appreciated and will be acknowledged.If there exists a positive constant \( \alpha \)
+such that the runtime \( C(n) \) of the best known classical algorithm and the runtime
+\( Q(n) \) of the quantum algorithm satisfy \( C = 2^{\Omega(Q^\alpha)} \)
+then I call the speedup superpolynomial. Otherwise I call it polynomial. 
+For a review of the \( O, \Omega, \Theta, \widetilde{O}, ... \) notations see the
+Wikipedia article.
