@@ -58,6 +58,86 @@
         {
             "user": false,
             "message": "Hi there! What computer-related questions do you have?"
+        },
+        {
+            "user": true,
+            "message": "Hi, How are you?"
+        },
+        {
+            "user": false,
+            "message": "Hello! How can I help you with your computer-related questions?"
+        },
+        {
+            "user": true,
+            "message": "What is a firewall?"
+        },
+        {
+            "user": false,
+            "message": "A Firewall is a network security system set on the boundaries of the system/network that monitors and controls network traffic. Firewalls are mainly used to protect the system/network from viruses, worms, malware, etc. Firewalls can also be to prevent remote access and content filtering."
+        },
+        {
+            "user": true,
+            "message": "What do you know about VPN?"
+        },
+        {
+            "user": false,
+            "message": "VPN stands for Virtual Private Network. It is used to create a safe and encrypted connection. When you use a VPN, the data from the client is sent to a point in the VPN where it is encrypted and then sent through the internet to another point. At this point, the data is decrypted and sent to the server. When the server sends a response, the response is sent to a point in the VPN where it is encrypted and this encrypted data is sent to another point in the VPN where it is decrypted. And finally, the decrypted data is sent to the client. The whole point of using a VPN is to ensure encrypted data transfer."
+        },
+        {
+            "user": true,
+            "message": "I need help with the memory management concept"
+        },
+        {
+            "user": false,
+            "message": "Memory Management is the process of allocating and managing the primary memory (RAM) in a computer system. It involves techniques such as memory allocation, deallocation, and swapping to efficiently utilize the available memory for executing processes or threads, managing memory fragmentation, and providing memory protection to prevent unauthorized access."
+        },
+        {
+            "user": true,
+            "message": "Tell me about file management on the computer systems"
+        },
+        {
+            "user": false,
+            "message": "File Management is the process of organizing, storing, and managing files in a computer system. It involves tasks such as file creation, deletion, renaming, copying, moving, and organizing files into directories or folders. File management also includes file access permissions, file sharing, and file system integrity and consistency checking to ensure reliable and secure storage and retrieval of data."
+        },
+        {
+            "user": true,
+            "message": "What is disk scheduling in operating systems?"
+        },
+        {
+            "user": false,
+            "message": "Disk Scheduling is the process of determining the order in which disk I/O requests are serviced by a disk drive to optimize the disk access time and throughput. Disk scheduling algorithms determine the most efficient way to access data on a disk by reducing the seek time, rotational latency, and head movement. Common disk scheduling algorithms include First-Come, First-Served (FCFS), Shortest Seek Time First (SSTF), SCAN, C-SCAN, and LOOK, each with its own advantages, disadvantages, and suitability for different types of disk workloads."
+        },
+        {
+            "user": true,
+            "message": "I am not getting good results from you!!!"
+        },
+        {
+            "user": false,
+            "message": "Hi there, how can I help?"
+        },
+        {
+            "user": true,
+            "message": "Tell me an interesting topic"
+        },
+        {
+            "user": false,
+            "message": "A computer is a machine that can perform a variety of tasks by following instructions provided by software. Computers are essential tools for modern life and are used for everything from creating documents to playing games."
+        },
+        {
+            "user": true,
+            "message": "Something more generic"
+        },
+        {
+            "user": false,
+            "message": "The Theory of Generalization in machine learning studies how well a model can perform on unseen data after being trained on a limited dataset. It involves understanding the tradeoff between model complexity and performance, as well as the factors that affect a model's ability to generalize well to new data."
+        },
+        {
+            "user": true,
+            "message": "I don't like that"
+        },
+        {
+            "user": false,
+            "message": "I'm sorry, I don't know about that. I can only answer questions about computers"
         }
     ]
 }

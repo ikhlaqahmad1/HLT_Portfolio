@@ -1,8 +1,30 @@
 """
-    # Ikhlaq Ahmad
-    # ixa190000
+    # Ikhlaq Ahmad & Aloksai Choudari
+    # ixa190000 & axc190063
     # Dr. Mazidi
     # CS 4395
+"""
+
+"""
+    # This is the logic file for the chatbot.
+    # The cosine_similarities.npz file is used match responses to queries.
+    # NLP techniques: TF-IDF
+    # user_authentication adds the user to user_history file in json format
+    # Save and Get user model save and retrieve user information if exist or create one
+
+    Methods:
+        generate_response(): text
+        :return: text
+        
+        user_authentication(): username, password as strings
+        :return: nothing 
+        
+        get_user_model: username, as a string
+        :return: user.json
+        
+        save_user_model: usermodel, as a json notation 
+        :return: nothing
+        
 """
 
 

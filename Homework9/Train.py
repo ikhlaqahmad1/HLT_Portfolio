@@ -1,10 +1,18 @@
 """
-    # Ikhlaq Ahmad
-    # ixa190000
+    # Ikhlaq Ahmad & Aloksai Choudari
+    # ixa190000 & axc190063
     # Dr. Mazidi
     # CS 4395
 """
-
+"""
+    # This is the training file for the model.
+    # The Training.json file is used to train the model.
+    # NLP techniques: TF-IDF & Cosine Similarities
+    
+    Methods:
+        preprocess(): text
+        :return: text
+"""
 # Train.py train the model based on the intents file
 import json
 import string
@@ -15,7 +23,7 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.stem import PorterStemmer
 
-
+# stop words
 stop_words = set(stopwords.words('english'))
 stemmer = PorterStemmer()
 
