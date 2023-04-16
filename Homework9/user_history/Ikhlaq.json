@@ -1,0 +1,63 @@
+{
+    "id": "Ikhlaq",
+    "name": "",
+    "age": 0,
+    "conversation": [
+        {
+            "user": true,
+            "message": "Hello"
+        },
+        {
+            "user": false,
+            "message": "Hi there, how can I help?"
+        },
+        {
+            "user": true,
+            "message": "What do you know about kacking"
+        },
+        {
+            "user": false,
+            "message": "I'm sorry, I don't know about that. I can only answer questions about computers"
+        },
+        {
+            "user": true,
+            "message": "What do u know about TLS"
+        },
+        {
+            "user": false,
+            "message": "TLS is also an identification tool just like SSL, but it offers better security features. It provides additional protection to the data and hence SSL and TLS are often used together for better protection."
+        },
+        {
+            "user": true,
+            "message": "How are u"
+        },
+        {
+            "user": false,
+            "message": "I'm sorry, I don't know about that. I can only answer questions about computers"
+        },
+        {
+            "user": true,
+            "message": "Tell me about computers"
+        },
+        {
+            "user": false,
+            "message": "Computers are electronic devices that can process information and perform a variety of tasks. They are used in a wide range of industries and are essential tools for many businesses and individuals."
+        },
+        {
+            "user": true,
+            "message": "Thanks"
+        },
+        {
+            "user": false,
+            "message": "Anytime!"
+        },
+        {
+            "user": true,
+            "message": "Hello"
+        },
+        {
+            "user": false,
+            "message": "Hi there! What computer-related questions do you have?"
+        }
+    ]
+}

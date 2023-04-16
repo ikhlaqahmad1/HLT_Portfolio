@@ -1,0 +1,31 @@
+{
+    "users": [
+        {
+            "username": "user1",
+            "password": "password1",
+            "data": {}
+        },
+        {
+            "username": "user2",
+            "password": "password2",
+            "data": {}
+        },
+        {
+            "username": "Ikhlaq",
+            "password": "nlp",
+            "data": {}
+        },
+        {
+            "username": "Arslan",
+            "password": "abc"
+        },
+        {
+            "username": "Ali",
+            "password": "ilp"
+        },
+        {
+            "username": "iqra",
+            "password": "pagal"
+        }
+    ]
+}
